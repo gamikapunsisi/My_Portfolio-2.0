@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@lottiefiles/react-lottie-player", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.5.4"],\
             ["@next/eslint-plugin-next", "npm:13.5.6"],\
             ["@types/node", "npm:18.11.3"],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.62.0"],\
             ["@typescript-eslint/parser", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.62.0"],\
@@ -203,7 +203,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@iconify/react", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:4.1.1"],\
             ["@iconify/types", "npm:2.0.0"],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["react", "npm:18.3.1"]\
           ],\
           "packagePeers": [\
@@ -308,7 +308,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/@lottiefiles-react-lottie-player-virtual-5c9c422456/0/cache/@lottiefiles-react-lottie-player-npm-3.5.4-eeec70368b-ab779e534f.zip/node_modules/@lottiefiles/react-lottie-player/",\
           "packageDependencies": [\
             ["@lottiefiles/react-lottie-player", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.5.4"],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["lottie-web", "npm:5.12.2"],\
             ["react", "npm:18.3.1"]\
           ],\
@@ -539,16 +539,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/react", [\
-        ["npm:18.0.21", {\
-          "packageLocation": "./.yarn/cache/@types-react-npm-18.0.21-e933f9864e-36c1a7c9d5.zip/node_modules/@types/react/",\
-          "packageDependencies": [\
-            ["@types/react", "npm:18.0.21"],\
-            ["@types/prop-types", "npm:15.7.12"],\
-            ["@types/scheduler", "npm:0.23.0"],\
-            ["csstype", "npm:3.1.3"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:18.3.3", {\
           "packageLocation": "./.yarn/cache/@types-react-npm-18.3.3-07e68e178e-c63d6a7816.zip/node_modules/@types/react/",\
           "packageDependencies": [\
@@ -565,15 +555,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@types/react-dom", "npm:18.0.6"],\
             ["@types/react", "npm:18.3.3"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
-      ["@types/scheduler", [\
-        ["npm:0.23.0", {\
-          "packageLocation": "./.yarn/cache/@types-scheduler-npm-0.23.0-a698c23f51-874d753aa6.zip/node_modules/@types/scheduler/",\
-          "packageDependencies": [\
-            ["@types/scheduler", "npm:0.23.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2809,7 +2790,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["framer-motion", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:9.1.7"],\
             ["@emotion/is-prop-valid", "npm:0.8.8"],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["react", "npm:18.3.1"],\
             ["react-dom", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:18.3.1"],\
@@ -4264,7 +4245,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@opentelemetry/api", null],\
             ["@swc/helpers", "npm:0.5.2"],\
             ["@types/opentelemetry__api", null],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
@@ -4969,7 +4950,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/react-dom-virtual-6093929227/0/cache/react-dom-npm-18.3.1-a805663f38-298954ecd8.zip/node_modules/react-dom/",\
           "packageDependencies": [\
             ["react-dom", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:18.3.1"],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["loose-envify", "npm:1.4.0"],\
             ["react", "npm:18.3.1"],\
             ["scheduler", "npm:0.23.2"]\
@@ -5003,7 +4984,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["react-type-animation", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.2.0"],\
             ["@types/prop-types", null],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["prop-types", null],\
             ["react", "npm:18.3.1"],\
@@ -5179,7 +5160,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@lottiefiles/react-lottie-player", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:3.5.4"],\
             ["@next/eslint-plugin-next", "npm:13.5.6"],\
             ["@types/node", "npm:18.11.3"],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["@typescript-eslint/eslint-plugin", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.62.0"],\
             ["@typescript-eslint/parser", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.62.0"],\
@@ -5710,7 +5691,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", null],\
             ["@types/babel-plugin-macros", null],\
             ["@types/babel__core", null],\
-            ["@types/react", "npm:18.0.21"],\
+            ["@types/react", "npm:18.3.3"],\
             ["babel-plugin-macros", null],\
             ["client-only", "npm:0.0.1"],\
             ["react", "npm:18.3.1"]\
