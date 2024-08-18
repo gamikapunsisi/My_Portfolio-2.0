@@ -8,9 +8,9 @@ export const experienceSection: ExperienceSectionType = {
       companyUrl: '',
       role: 'Junior Software Engineer',
       started: 'May 2024',
-      upto: 'August 2024',
+      upto: 'Present',
       tasks: [
-        'Developed and maintained web development projects.',
+        'Developed responsive web applications using new technologies.',
         'Automated data collection and processing using Python.',
         'Collaborated with the development team to improve the data pipeline.',
       ],
@@ -22,7 +22,7 @@ export const experienceSection: ExperienceSectionType = {
       started: 'January 2023',
       upto: 'January 2024',
       tasks: [
-        'Developed and maintained data pipelines for ETL processes.',
+        'Conducted code reviews and optimized existing code for better performance.',
         'Automated data collection and processing using Python and Apache Spark.',
         'Collaborated with the data science team to improve the data pipeline.',
       ],
@@ -35,7 +35,7 @@ export const experienceSection: ExperienceSectionType = {
       upto: 'August 2024',
       tasks: [
         'Designed and implemented scalable solutions for clients.',
-        'Developed proof of concepts for new projects.',
+        'Integrated third-party APIs and developed custom plugins to enhance project functionalities',
         'Collaborated with the team using Agile methodologies to enhance product stability.',
       ],
     },

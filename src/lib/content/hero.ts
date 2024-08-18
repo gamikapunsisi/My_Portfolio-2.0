@@ -9,9 +9,9 @@ export const heroSection: HeroSectionType = {
         'Machine Learning Engineer',
         'Blogger'
     ],
-    tagline: 'Specializing in ETL pipelines and solutions architecture.',
+    tagline: 'Transforming complex data into actionable insights, one project at a time.',
     description: 
-        "I’m a Computer Science and Software Engineering student at Coventry University, specializing in Software Engineering and Machine Learning. I am passionate about acquiring new skills and building projects to gain hands-on experience. I thrive on collaboration and am dedicated to turning innovative ideas into reality.",
+        "I’m a Computer Science and Software Engineering student at Coventry University, specializing in Software Engineering, Data Science and Machine Learning. I am passionate about acquiring new skills and building projects to gain hands-on experience. I thrive on collaboration and am dedicated to turning innovative ideas into reality.",
     specialText: 'Currently open to job opportunities and freelance projects.',
     cta: {
         title: 'View My Resume',

@@ -14,6 +14,8 @@ export const aboutSection: AboutSectionType = {
       'PHP',
       'Laravel',
       'SQL',
+      'R',
+      'Scala',
       'Machine Learning',
     ],
   },
